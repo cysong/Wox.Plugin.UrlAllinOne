@@ -1,0 +1,12 @@
+{
+    "ID": "D97D109F1E0640EDBD5A5779EFA8D5C2",
+    "ActionKeyword": "url",
+    "Name": "URL Tools All in One",
+    "Description": "A comprehensive set of URL manipulation tools",
+    "Author": "cysong",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/cysong/Wox.Plugin.UrlAllinOne",
+    "IcoPath": "Images\\icon.png",
+    "ExecuteFileName": "main.py"
+  }
